@@ -1,0 +1,53 @@
+body
+{
+	background-image: url(marvin-meyer-571072-unsplash.jpg);
+	background-size: cover;
+   color: #fff;
+	
+}
+.page
+{
+	
+	max-width: 380px;
+  margin: 0 auto;
+  background-color:rgb(0,0,0,0.4);
+  padding: 15px 40px 50px;
+  border: 2px solid darkorange;
+  border-radius: 15px;
+}
+input
+{
+	
+	padding: 10px;
+	border-radius: 5px;
+	border-color: green;
+	font-size: 34px;
+}
+.abc
+{
+	color: #fff;
+}
+.aa
+{
+	color: green;
+}
+#operators
+{
+	font-size: 20px;
+	height: 40px;
+	width: 60px;
+	padding-right: 10px;
+	color: darkorange;
+	border-radius: 5px;
+
+}
+.btn
+{
+
+	font-size: 20px;
+	width: 70px;
+	height: 40px;
+	margin-bottom: 10px;
+	margin-left: 3px;
+
+}
